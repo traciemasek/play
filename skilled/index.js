@@ -13,6 +13,7 @@ const User = {
 var peter = User.init( "Peter" )
 
 console.log({peter})
+// console.log(peter)
 
 var greeting = peter.getGreeting()
 
